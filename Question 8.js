@@ -6,4 +6,4 @@ const details={
    job:'Delivery Boy',
    employer:'planet express'
    };
-const character=object.assign(name,values);
+const character=Object.assign(name,values);
